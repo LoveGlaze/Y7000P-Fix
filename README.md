@@ -1,21 +1,15 @@
 ## 欢迎加入拯救者Y7000系列黑苹果
-群号:477839538
+686834883
 
-## 主项目地址
+## 以防失效，从别的地方下载上传的，主项目地址
 ```
 https://github.com/xiaoMGitHub/LEGION_Y7000Series_Hackintosh
 ```
-
-## 优化命令
+## github命令
 ```
-sudo sh -c "$(curl -fsSL https://gitee.com/xiaoMGit/Y7000Series_Hackintosh_Fix/tree/master/Script/Optimize.sh)"
+sudo sh -c "$(curl -fsSL https://github.com/LoveGlaze/Y7000P-Fix/blob/master/Script/Optimize.sh)"
+```
+## gitee命令
+```
 sudo sh -c "$(curl -fsSL https://gitee.com/lovekevin5/Y7000Series_Hackintosh_Fix/tree/master/Script/Optimize.sh)"
 ```
-
-## 关于捐赠
-
-如果您认可我的工作，可以通过捐赠支持我后续的更新
-
-| 微信                                                       | 支付宝                                               |
-| ---------------------------------------------------------- | ---------------------------------------------------- |
-| ![image](https://gitee.com/xiaoMGit/Y7000Series_Hackintosh_Fix/raw/master/Screenshot/WeChat.jpg) | ![image](https://gitee.com/xiaoMGit/Y7000Series_Hackintosh_Fix/raw/master/Screenshot/Alipay.jpg) |

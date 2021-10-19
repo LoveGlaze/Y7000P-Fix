@@ -11,5 +11,5 @@ sudo sh -c "$(curl -fsSL https://github.com/LoveGlaze/Y7000P-Fix/raw/master/Scri
 ```
 ## gitee命令
 ```
-sudo sh -c "$(curl -fsSL https://gitee.com/LoveGlaze/Y7000Series_Hackintosh_Fix/raw/master/Script/Optimize.sh)"
+sudo sh -c "$(curl -fsSL https://gitee.com/LoveGlaze/Y7000P-Fix/raw/master/Script/Optimize.sh)"
 ```

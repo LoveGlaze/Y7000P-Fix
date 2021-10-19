@@ -1,11 +1,9 @@
-# 通过 Github action， 定期同步在仓库到 Gitee 上
-name: sync2gitee-schedule
+# 通过 Github action， 在仓库的每一次 commit 后自动同步到 Gitee 上
+name: sync2gitee
 on:
-  schedule:
-    # * is a special character in YAML so you have to quote this string
-    - cron:  ${{ secrets.GITEE_SYNC_SCHEDULE ||  '1 1 * * *'}}
-  workflow_dispatch:
-
+  push:
+    branches:
+      - master
 jobs:
   repo-sync:
     env:
